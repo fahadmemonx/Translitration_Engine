@@ -1,0 +1,3 @@
+Redirect 301 /www.fahad-memon.com/sindhi%20transliteration/ /www.fahad-memon.com/sindhi_transliteration/
+RewriteEngine On
+RewriteRule ^/?www.fahad-memon.com/sindhi%20transliteration/(.*)$ /www.fahad-memon.com/sindhi_transliteration/$1 [L,R=301]
